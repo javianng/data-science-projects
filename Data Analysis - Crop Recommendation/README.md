@@ -1,0 +1,2 @@
+- In this analysis of the crop recommendation dataset, I am showcasing my knowledge in data importing and data cleaning.
+- Due to the nature of the dataset not containing metrics to determine the condition and health of the crop, it is not possible to determine the recommended condition.
